@@ -6,4 +6,5 @@ kubeplugin 'RESOURCE_TYPE' 'NS'
 'RESOURCE_TYPE':  
 для подів треба вказати "po" або "pods"  
 для нод треба вказати "nodes"  
+  
 'NS' - треба вказати назву namespace
